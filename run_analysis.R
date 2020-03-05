@@ -75,7 +75,7 @@ tempName <- gsub("Freq", "Frequency", tempName)
 colnames(allData) <- tempName
 rm(tempName)
 
-# STEP 5 – Tidy data set
+# STEP 5 – Tidy data set 
 ## Group by subject and activity and summarise using mean
 Average <- allData %>% 
   group_by(subject, activity) %>%
