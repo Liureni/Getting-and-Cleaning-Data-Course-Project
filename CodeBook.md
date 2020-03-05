@@ -5,15 +5,15 @@ Getting and Cleaning Data Course Project
 The dataset was downloaded from the provided link https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Abbreviations
-t or Time stands for 'time' 
-f or Freq stands for 'frequency'
-Body = related to body movement
-Gravity = acceleration of gravity
-Acc = accelerometer measurement
-Gyro = gyroscopic measurements
-Jerk = sudden movement acceleration
-Mag = magnitude of movement
-mean and std (=standard deviation) are calculated for each subject for each activity for each mean and SD measurements.
+* t or Time stands for 'time' 
+* f or Freq stands for 'frequency'
+* Body = related to body movement
+* Gravity = acceleration of gravity
+* Acc = accelerometer measurement
+* Gyro = gyroscopic measurements
+* Jerk = sudden movement acceleration
+* Mag = magnitude of movement
+* mean and std (=standard deviation) are calculated for each subject for each activity for each mean and SD measurements.
 
 ## Activity Labels
 * `WALKING` (value `1`): subject was walking during the test
